@@ -1,5 +1,6 @@
 ## Road_Accident_Analysis ##
-![causes-of-road-accidents](https://github.com/Swarajsj/Road_Accident_Analysis/assets/65704446/2d28624b-dfe0-4b69-a994-4118bc876411)
+
+![Screenshot 2023-10-07 102159](https://github.com/Swarajsj/Road_Accident_Analysis/assets/65704446/9c329ef9-8014-4f6b-939b-0cc4e8e7540e)
 
 ## Abstract
 Road traffic accidents are one among the world's leading causes of injuries and fatalities and hence represent an important field of research towards the use of traffic accident analysis and prediction techniques and the determination of the most key factors contributing to road traffic accidents. This paper aims to provide an overview of road accident data sources, data analysis techniques, various algorithms used to build road accident forecasts, and also their suitability to the types of data being examined with the ease of interpretation. The paper also summarizes the operational problems of road traffic, identifies the risk factors, the efficacy of road safety measures when they contribute to the statistical analysis of the severity of motor vehicle accidents and offers an assessment of future methodological approaches. In this review, different gaps in the road traffic accident area were found and further fields of research have been mentioned.
